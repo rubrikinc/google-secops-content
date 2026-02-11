@@ -4,11 +4,20 @@ This repository contains correlation rules, search queries, dashboards, and play
 > :warning: **IMPORTANT:** This repository is currently under active development. **Content is not yet suitable for production use.**
 > 
 # :hammer: Installation
-Installation and import guides for each content type will be provided as content is released.
 
-# :blue_book: Documentation 
+For detailed installation instructions, please refer to the component-specific guides:
 
-Documentation for each content type will be provided as content is released.
+- **SIEM Content (Dashboards, Correlation Rules, Search Queries):** See [SIEM/README.md](./SIEM/README.md)
+- **SOAR Content (Playbooks & Blocks):** See [SOAR/README.md](./SOAR/README.md)
+
+# :blue_book: Documentation
+
+Comprehensive documentation is available for each component:
+
+| Component | Documentation | User Guide |
+|-----------|---------------|------------|
+| SIEM | [SIEM README](./SIEM/README.md) | [SIEM User Guide (PDF)](./SIEM/User%20Guide%20-%20Rubrik%20Security%20Cloud%20Integration%20for%20Google%20SecOps%20SIEM.pdf) |
+| SOAR | [SOAR README](./SOAR/README.md) | [SOAR User Guide (PDF)](./SOAR/user_guide_rubrik_security_cloud_google_secops_integration.pdf) |
 
 If you find any challenges from this project are not properly documented or are unclear, please raise an issue and let us know! This is a fun, safe environment - don't worry if you're a GitHub newbie! :heart:
 
